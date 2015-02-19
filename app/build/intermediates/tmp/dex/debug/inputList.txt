@@ -1,0 +1,2 @@
+S:\COM262\Completed\Project 4-News Reader Fragments\app\build\intermediates\classes\debug
+S:\COM262\Completed\Project 4-News Reader Fragments\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-4691be3e4d54f51354047ea964572cecc1bcc90a.jar
