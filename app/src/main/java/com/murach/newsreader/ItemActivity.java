@@ -2,7 +2,7 @@ package com.murach.newsreader;
 
 import android.app.Activity;
 import android.os.Bundle;
-//lisa
+//lisa Lau
 public class ItemActivity extends Activity
 {
 
